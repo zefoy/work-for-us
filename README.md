@@ -20,7 +20,7 @@ Leaving aside all that existential fuss about “who you really are”, we’re 
 ![alt text](http://cases.zef.fi/zef/rekry/10546957_1438119443130144_1107337977_n.jpg "We haz knowledge!")
 
 ## What you’ll do
-Seriously, I have no slightest idea. I’m just a poor copywriter who doesn’t understand a thing about all these terms, so I’ll just vomit these terms here: UI, Enyo, NodeJS, NoSQL and HTML5.
+Seriously, I have no slightest idea. I’m just a poor copywriter who doesn’t understand a thing about all these terms, so I’ll just vomit these words here: UI, Enyo, NodeJS, NoSQL and HTML5.
 
 ## What we’ll offer
 * Great chances to improve your skills
