@@ -5,7 +5,7 @@
 ## Who we are
 ZEF is founded to help people in decision-making. We offer online solutions for decision-making apps for over a thousand customers and millions of users worldwide. Our dreams include building a decision-making community with a billion fans and promoting democracy and transparency all over the world.
 
-As human beings, we are a bunch of people who live out of love, passion and bravery and work together towards their dreams. We consider ourselves as the Nicest Place to Work in the Universe but are even officially awarded as the 6th Best Place to Work in Finland 2014. By all means, read more about our company here http://www.zef.fi/en/company/!
+As human beings, we are a bunch of people who live out of love, passion and bravery and work together towards their dreams. We consider ourselves as the Nicest Place to Work in the Universe but are even officially awarded as the 2nd Best Place to Work in Finland 2015! By all means, read more about our company here http://www.zef.fi/en/company/
 
 ![alt text](http://cases.zef.fi/zef/rekry/10538739_1399080693645921_1639423007_n.jpg "Beginner code about recruitment")
 
@@ -29,6 +29,6 @@ Seriously, I have no slightest idea. I’m just a poor copywriter who doesn’t 
 * Well it is too obvious, isn’t it? Money!
 
 ## How to apply
-Do you think our dreams could merge? Would you like to unleash your full potential with us? Can you imagine yourself as a part of ZEF family? 
+Do you think our dreams could merge? Would you like to unleash your full potential with us? Can you imagine yourself as a part of ZEF family?
 
 Please, come and join our excellent international team! Send an application with a link to your GitHub profile or other portfolio to markku.alasaarela@zef.fi and we’ll be in touch sooner than you think! See ya!
