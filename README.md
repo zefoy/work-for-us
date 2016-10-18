@@ -5,7 +5,7 @@
 ## Who we are
 ZEF is founded to help people in decision-making. We offer online solutions for decision-making apps for over a thousand customers and millions of users worldwide. Our dreams include building a decision-making community with a billion fans and promoting democracy and transparency all over the world.
 
-As human beings, we are a bunch of people who live out of love, passion and bravery and work together towards their dreams. We consider ourselves as the Nicest Place to Work in the Universe but are even officially awarded as the 2nd Best Place to Work in Finland 2015! By all means, read more about our company here http://www.zef.fi/en/company/
+As human beings, we are a bunch of people who live out of love, passion and bravery and work together towards their dreams. We consider ourselves as the Nicest Place to Work in the Universe and are officially awarded as the 1st Best Place to Work in Finland 2016! By all means, read more about our company here http://www.zef.fi/en/company/
 
 ![alt text](http://cases.zef.fi/zef/rekry/10538739_1399080693645921_1639423007_n.jpg "Beginner code about recruitment")
 
@@ -20,7 +20,7 @@ Leaving aside all that existential fuss about “who you really are”, we’re 
 ![alt text](http://cases.zef.fi/zef/rekry/10546957_1438119443130144_1107337977_n.jpg "We haz knowledge!")
 
 ## What you’ll do
-Seriously, I have no slightest idea. I’m just a poor copywriter who doesn’t understand a thing about all these terms, so I’ll just vomit these words here: UI, Javascript, Enyo, NodeJS, HTML5 and CSS.
+You will be involved into development of world class SaaS product with use of latest technologies, such as : Javascript, Angular2, NodeJS, Java, Google Cloud Platform, HTML5 and CSS.
 
 ## What we’ll offer
 * Great chances to improve your skills
